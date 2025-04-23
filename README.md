@@ -1,5 +1,6 @@
 # Inventory Management System
 
+
 This is an Inventory Management System built in the form of a GUI desktop application developed in ***Java*** using ***MySQL*** as its database.
 The GUI was designed using **Swing** and the database connectivity was managed using **JDBC API**.
 
@@ -151,3 +152,4 @@ Click [here](src/com/inventory/) to skip directly to the source code.
 ## Work-in-Progress
 
 This project is a work in progress and more features are yet to be added with new technologies. 
+
